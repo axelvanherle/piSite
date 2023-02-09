@@ -1,3 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = ''
+relativeURLs = true
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+theme = "PaperMod"
