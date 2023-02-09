@@ -11,3 +11,8 @@ jobs:
         with:
           files: public/
           dest: result.zip
+        
+      - uses: actions/upload-artifact@v3
+        with:
+          name: my-artifact
+          path: result.zip
