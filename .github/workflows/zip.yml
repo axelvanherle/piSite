@@ -1,4 +1,4 @@
-name: Zip Files
+name: website src dir
 
 on: push
 
@@ -16,3 +16,13 @@ jobs:
         with:
           name: my-artifact
           path: result.zip
+          
+      - name: upload linux artifact
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: result.zip
+          asset_name: my-artifact
+          asset_content_type: application/gzip
