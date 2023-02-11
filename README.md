@@ -9,7 +9,7 @@ A website built by Axel Vanherle with Hugo that allows users to submit posts in 
 
 ## Rules for submission
 
-- Model submission files after [example.md](example.md). Put them in `content/`.
+- Model submission files after [example.md](example.md). Put them in `content/posts/`.
 - Tag it correctly.
 
 ## Cloning
