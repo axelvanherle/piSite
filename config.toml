@@ -1,6 +1,0 @@
-baseURL = ''
-relativeURLs = true
-languageCode = 'en-us'
-title = 'raspberryPiSite'
-
-theme = "PaperMod"

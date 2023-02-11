@@ -1,0 +1,28 @@
+baseURL :  ''
+relativeURLs :  true
+languageCode : 'en-us'
+title :  raspberryPiSite
+
+theme : "PaperMod"
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: GitHub
+                  url: https://github.com/axelvanherle/raspberryPiSite
+                - name: Suprise
+                  url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+params:
+    homeInfoParams:
+        Title: "raspberryPiSite"
+        Content: >
+            A website built with Hugo that allows users to submit posts in markdown format. It's designed to run on any host, making it accessible and reliable. With a clean and simple design, users can easily navigate and find what they're looking for, while the robust back-end (you, but for now my raspberry pi 3B) ensures smooth performance.
+            

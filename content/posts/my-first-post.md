@@ -1,6 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-02-09T23:31:48+01:00
+tags: ["markdown", "text"]
 ---
 
 # Hello world!
