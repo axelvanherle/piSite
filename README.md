@@ -12,6 +12,6 @@ A website built by Axel Vanherle with Hugo that allows users to submit posts in 
 - Model submission files after [example.md](example.md). Put them in `content/`.
 - Tag it correctly.
 
-# cloning
+## Cloning
 
 When cloning you might need to run `git submodule update --init --recursive`. Submodules (the theme) may not get cloned automatically, this is what I (and maybe you) might need to do.
