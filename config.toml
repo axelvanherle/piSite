@@ -4,3 +4,15 @@ languageCode = 'en-us'
 title = 'raspberryPiSite'
 
 theme = "PaperMod"
+
+params:
+    homeInfoParams:
+        Title: "Welcome to raspberryPiSite"
+        Content: >
+        A website built with Hugo that allows users to submit posts in markdown format. It's designed to run on any host, making it accessible and reliable. With a clean and simple design, users can easily navigate and find what they're looking for, while the robust back-end (you, but for now my raspberry pi 3B) ensures smooth performance.
+            
+    socialIcons:
+        - name: github
+          url: "https://github.com/axelvanherle/raspberryPiSite"
+        - name: Rss
+          url: "index.xml"
