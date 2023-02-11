@@ -5,3 +5,5 @@ A website built with Hugo that allows users to submit posts in markdown format. 
 # cloning
 
 When cloning you might need to run `git submodule update --init --recursive`. Submodules (the theme) may not get cloned automatically, this is what I (and maybe you) might need to do.
+
+test
