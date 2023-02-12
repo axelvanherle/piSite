@@ -87,7 +87,7 @@ menu:
       url: /tags/
       weight: 20
     - identifier: GitHub
-      name: github
+      name: GitHub
       url: https://github.com/axelvanherle/raspberryPiSite
       weight: 30
 pygmentsUseClasses: true
