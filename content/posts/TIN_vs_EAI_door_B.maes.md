@@ -1,6 +1,6 @@
 ---
 title: "TIN vs EAI door B. maes"
-date: 2023-02-12T8:31:48+01:00
+date: 2023-02-12
 tags: ["markdown", "text"]
 author: "Brecht Maes"
 ---
