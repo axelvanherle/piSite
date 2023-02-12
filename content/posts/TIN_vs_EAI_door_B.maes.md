@@ -2,6 +2,7 @@
 title: "TIN vs EAI door B. maes"
 date: 2023-02-12T8:31:48+01:00
 tags: ["markdown", "text"]
+author: "Brecht Maes"
 ---
 
 # Toegepaste informatiekunde versus ICT elektronica: Waarom de eerstgenoemde de betere richting is
