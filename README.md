@@ -15,3 +15,5 @@ A website built by Axel Vanherle with Hugo that allows users to submit posts in 
 ## Cloning
 
 When cloning you might need to run `git submodule update --init --recursive`. Submodules (the theme) may not get cloned automatically, this is what I (and maybe you) might need to do.
+
+To clone the source files so you can host this website you need to clone the gh-pages branch. To do this run `git clone -b gh-pages https://github.com/axelvanherle/raspberryPiSite.git`.
