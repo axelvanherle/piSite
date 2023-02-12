@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://axelvanherle.github.io/raspberryPiSite/sitemap.xml
