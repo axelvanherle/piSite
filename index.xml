@@ -43,6 +43,16 @@ Ten eerste richt toegepaste informatiekunde zich op de praktische toepassingen v
       <description>Hello world! This is a post by Sem.</description>
     </item>
     
+    <item>
+      <title>How i got this website up and running.</title>
+      <link>https://axelvanherle.github.io/raspberryPiSite/posts/howigotthiswebsiteup/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://axelvanherle.github.io/raspberryPiSite/posts/howigotthiswebsiteup/</guid>
+      <description>Hello, this post is a quick explanation of how I got this website up and running.
+Rambling First of all, you&amp;rsquo;re probably reading this while it is hosted on GitHub Pages. I also host this website on my Raspberry Pi, but this is more of a proof of concept. Using GitHub Pages is the most obvious choice for this project. However, it was fun to set up Caddy on the Raspberry Pi again.</description>
+    </item>
+    
     
     
   </channel>
