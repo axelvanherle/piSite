@@ -2,6 +2,8 @@
 
 A website built by Axel Vanherle with Hugo that allows users to submit posts in markdown format. It's designed to run on any host, making it accessible and reliable. With a clean and simple design, users can easily navigate and find what they're looking for, while the robust back-end (you, but for now my raspberry pi 3B) ensures smooth performance.
 
+https://axelvanherle.github.io/raspberryPiSite/
+
 ## Ways to contribute
 
 - By adding any post that you want! It's that simple.
