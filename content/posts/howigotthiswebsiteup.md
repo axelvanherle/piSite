@@ -1,7 +1,7 @@
 ---
 title: How i got this website up and running.
 tags: ['hugo', 'school', 'webdev', 'devops']
-date: 2022-02-12
+date: 2023-02-12
 author: "Axel Vanherle"
 ---
 
