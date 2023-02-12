@@ -69,5 +69,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>test</title>
+      <link>https://axelvanherle.github.io/raspberryPiSite/tags/test/</link>
+      <pubDate>Thu, 20 Feb 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://axelvanherle.github.io/raspberryPiSite/tags/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

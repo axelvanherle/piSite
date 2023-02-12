@@ -53,6 +53,15 @@ Ten eerste richt toegepaste informatiekunde zich op de praktische toepassingen v
       <description>Hello world! This is a post by Sem.</description>
     </item>
     
+    <item>
+      <title>This is an old post.</title>
+      <link>https://axelvanherle.github.io/raspberryPiSite/posts/oldpost/</link>
+      <pubDate>Thu, 20 Feb 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://axelvanherle.github.io/raspberryPiSite/posts/oldpost/</guid>
+      <description>This is just to add an old post, to demonstrate the archives feature.</description>
+    </item>
+    
     
     
   </channel>
