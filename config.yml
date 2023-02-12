@@ -85,10 +85,6 @@ menu:
     - name: Search
       url: search/
       weight: 10
-    - identifier: Categories
-      name: categories
-      url: /categories/
-      weight: 15
     - identifier: Tags
       name: tags
       url: /tags/
