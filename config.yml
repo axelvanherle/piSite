@@ -1,5 +1,4 @@
-baseURL :  ''
-relativeURLs :  true
+baseURL :  'https://axelvanherle.github.io/'
 languageCode : 'en-us'
 title :  raspberryPiSite
 
