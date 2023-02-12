@@ -83,7 +83,7 @@ menu:
       url: archives
       weight: 5
     - identifier: Tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: GitHub
