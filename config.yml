@@ -95,7 +95,7 @@ menu:
       weight: 20
     - identifier: GitHub
       name: github
-      url: https://github.com/axelvanherle/raspberryPiSite
+      url: https://github.com/axelvanherle/raspberryPiSite/tree/main/content
       weight: 30
 pygmentsUseClasses: true
 markup:
