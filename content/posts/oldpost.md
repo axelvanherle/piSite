@@ -5,4 +5,4 @@ date: 2003-02-20
 author: "Axel Vanherle"
 ---
 
-This is just to add an old post, to demonstrate the archives feature.
+This is just to add an (very) old post, to demonstrate the archives feature.
