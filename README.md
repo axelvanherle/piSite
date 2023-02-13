@@ -11,6 +11,7 @@ https://axelvanherle.github.io/raspberryPiSite/
 
 ## Rules for submission
 
+- You have to fork this and create a pull request to add posts.
 - Model submission files after [example.md](example.md). Put them in `content/posts/`.
 - Tag it correctly.
 
