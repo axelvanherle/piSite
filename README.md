@@ -23,6 +23,14 @@ To clone the source files so you can host this website you need to clone the gh-
 
 ## Running it on your server
 
-You can simply use the `getsource.sh` script to pull the website, and reload caddy.
+### Method 1
+
+You can simply use the `getghpages.sh` script to pull the website from the github pages branch, and reload caddy.
 
 It assumed you have root acces,you have caddy installed and your caddy files is looking for sites in `/var/www/raspberryPiSite`. 
+
+### Method 2
+
+You can user the `buildsource.sh` script to pull the latest version of this git repo, and built it using hugo. You have to change the script so the baseURL matches the one you plan on hosting on.
+
+This scripts clones the repo, moves the builded website to the dir you ran the script in, and then removes the github repo, leaving the `public/*` directory, do as you wish with this.
