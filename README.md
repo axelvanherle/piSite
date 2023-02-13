@@ -20,3 +20,9 @@ https://axelvanherle.github.io/raspberryPiSite/
 When cloning you might need to run `git submodule update --init --recursive`. Submodules (the theme) may not get cloned automatically, this is what I (and maybe you) might need to do.
 
 To clone the source files so you can host this website you need to clone the gh-pages branch. To do this run `git clone -b gh-pages https://github.com/axelvanherle/raspberryPiSite.git`.
+
+## Running it on your server
+
+You can simply use the 'getsource.sh' script to pull the website, and reload caddy.
+
+It assumed you have root acces,you have caddy installed and your caddy files is looking for sites in '/var/www/raspberryPiSite'. 
