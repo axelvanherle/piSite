@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fish on raspberryPiSite</title>
+    <link>https://axelvanherle.github.io/raspberryPiSite/tags/fish/</link>
+    <description>Recent content in Fish on raspberryPiSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://axelvanherle.github.io/raspberryPiSite/tags/fish/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do fish see water?</title>
+      <link>https://axelvanherle.github.io/raspberryPiSite/posts/fish/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://axelvanherle.github.io/raspberryPiSite/posts/fish/</guid>
+      <description>Fish are aquatic creatures that are surrounded by water their entire lives, but contrary to popular belief, they do not see water. Water is a transparent and colorless substance, which means that it is invisible to fish. As a result, fish do not have a concept of &amp;ldquo;water,&amp;rdquo; in the same way that humans don&amp;rsquo;t have a concept of &amp;ldquo;air.&amp;rdquo;
+To understand this, imagine a world where you lived in water but had no awareness of its existence.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://axelvanherle.github.io/raspberryPiSite/posts/fish/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axelvanherle.github.io/raspberryPiSite/tags/fish/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axelvanherle.github.io/raspberryPiSite/posts/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axelvanherle.github.io/raspberryPiSite/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axelvanherle.github.io/raspberryPiSite/tags/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://axelvanherle.github.io/raspberryPiSite/tags/devops/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,16 +29,7 @@
     <loc>https://axelvanherle.github.io/raspberryPiSite/tags/markdown/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://axelvanherle.github.io/raspberryPiSite/posts/</loc>
-    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axelvanherle.github.io/raspberryPiSite/</loc>
-    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://axelvanherle.github.io/raspberryPiSite/tags/school/</loc>
-    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axelvanherle.github.io/raspberryPiSite/tags/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axelvanherle.github.io/raspberryPiSite/tags/text/</loc>
