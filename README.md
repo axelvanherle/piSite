@@ -23,6 +23,6 @@ To clone the source files so you can host this website you need to clone the gh-
 
 ## Running it on your server
 
-You can simply use the 'getsource.sh' script to pull the website, and reload caddy.
+You can simply use the `getsource.sh` script to pull the website, and reload caddy.
 
-It assumed you have root acces,you have caddy installed and your caddy files is looking for sites in '/var/www/raspberryPiSite'. 
+It assumed you have root acces,you have caddy installed and your caddy files is looking for sites in `/var/www/raspberryPiSite`. 
